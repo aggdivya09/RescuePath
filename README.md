@@ -12,14 +12,14 @@ RescuePath is a GUI-based web application developed using Design and Analysis of
 • Connectivity check using BFS/DFS
 • Real-time route recalculation (rerouting)
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 • HTML – Structure of the application
 • CSS – Styling and user interface design
 • JavaScript – Algorithm implementation and logic
 • JSON – Data storage for road network
 
-🧠 Concepts Used
+# 🧠 Concepts Used
 
 • Graph Theory (Nodes and Edges)
 • Shortest Path Algorithms (Dijkstra)
@@ -27,11 +27,11 @@ RescuePath is a GUI-based web application developed using Design and Analysis of
 • Greedy Approach
 • Time and Space Complexity Analysis
 
-🚀 Project Type
+# 🚀 Project Type
 
 GUI-based Web Application (Academic Simulation)
 
-👩‍💻 Team Members
+# 👩‍💻 Team Members
 Geo Emmanuel (2419314)
 Divya Agarwal (2418471)
 Khushi Kandiyal (2418595)
