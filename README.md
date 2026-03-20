@@ -14,18 +14,19 @@ RescuePath is a GUI-based web application developed using Design and Analysis of
 
 # 🛠 Technologies Used
 
-• HTML – Structure of the application
-• CSS – Styling and user interface design
-• JavaScript – Algorithm implementation and logic
-• JSON – Data storage for road network
+• HTML – Structure of the web application  
+• CSS – Styling and UI design  
+• JavaScript – Logic and interactivity  
+• JSON – Data storage for roads and nodes  
+
 
 # 🧠 Concepts Used
 
-• Graph Theory (Nodes and Edges)
-• Shortest Path Algorithms (Dijkstra)
-• BFS and DFS Traversal
-• Greedy Approach
-• Time and Space Complexity Analysis
+• Graph Theory (Nodes and Edges)  
+• Shortest Path Algorithms (Dijkstra)  
+• BFS / DFS Traversal  
+• Greedy Approach  
+• Time and Space Complexity 
 
 # 🚀 Project Type
 
