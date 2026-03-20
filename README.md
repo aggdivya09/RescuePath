@@ -33,8 +33,8 @@ RescuePath is a GUI-based web application developed using Design and Analysis of
 GUI-based Web Application (Academic Simulation)
 
 # 👩‍💻 Team Members
-Geo Emmanuel (2419314)
-Divya Agarwal (2418471)
-Khushi Kandiyal (2418595)
-Chitranjan (2418426)
+- Geo Emmanuel (2419314)  
+- Divya Agarwal (2418471)  
+- Khushi Kandiyal (2418595)  
+- Chitranjan (2418426)
  
