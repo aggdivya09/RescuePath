@@ -38,4 +38,10 @@ GUI-based Web Application (Academic Simulation)
 - Geo Emmanuel
 - Khushi Kandiyal  
 - Chitranjan
+
+## 🤝 Contributions 
+
+If you have ideas to make it better or find any issues, feel free to help! You can message, suggest changes, or add your own features. Let's grow and learn together 🚀
+
+[![Download ZIP](https://img.shields.io/badge/Download-Project-brightgreen?style=for-the-badge&logo=github)](https://github.com/aggdivya09/RescuePath/archive/refs/heads/main.zip)
  
