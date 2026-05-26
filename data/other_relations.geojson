@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "other_relations",
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "16150528", "type": "restriction", "other_tags": "\"restriction\"=>\"no_right_turn\"" }, "geometry": { "type": "GeometryCollection", "geometries": [ { "type": "LineString", "coordinates": [ [ 78.0482284, 30.3050017 ], [ 78.0481683, 30.3050259 ] ] }, { "type": "LineString", "coordinates": [ [ 78.0482265, 30.3050558 ], [ 78.0481683, 30.3050259 ] ] } ] } }
+]
+}
